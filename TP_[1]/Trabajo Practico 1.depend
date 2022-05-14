@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1649696967 source:c:\users\joshua\downloads\tsp\programacion\programación i\primer proyecto\trabajo practico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"tp1header.h"
+
+1649696450 c:\users\joshua\downloads\tsp\programacion\programación i\primer proyecto\trabajo practico 1\tp1header.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1649696960 source:c:\users\joshua\downloads\tsp\programacion\programación i\primer proyecto\trabajo practico 1\tp1funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"tp1header.h"
+
